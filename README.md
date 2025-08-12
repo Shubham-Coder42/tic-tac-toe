@@ -2,8 +2,7 @@
 
 A modern, interactive tic-tac-toe game built with React and Vite. Play against a friend in this classic strategy game with a sleek, responsive design.
 
-![Game Screenshot](https://via.placeholder.com/800x400/1a1a2e/eee?text=Tic-Tac-Toe+Game)
-
+![Game Screenshot](public/game-screenshot.png)
 ## 🚀 Live Demo
 
 Play the game live at: [https://shubham-coder42.github.io/tic-tac-toe](https://shubham-coder42.github.io/tic-tac-toe)
@@ -193,4 +192,3 @@ This project is open source and available under the [MIT License](LICENSE).
 
 ---
 
-Made with ❤️ by Shubham
